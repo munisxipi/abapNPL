@@ -1,2 +1,0 @@
-report Zaddedfromgithub.
-write'test'.
