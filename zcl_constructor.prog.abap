@@ -24,3 +24,7 @@ CLASS cons DEFINITION.
    DATA consobj TYPE REF TO cons .
  " break-point.
    CREATE OBJECT consobj.
+
+   new-line.
+
+   write ' this is test program'.
