@@ -35,4 +35,5 @@ SAP help
 [events](https://help.sap.com/doc/abapdocu_750_index_htm/7.50/en-US/abenclass_events.htm)
 
 [types and constants](https://help.sap.com/doc/abapdocu_750_index_htm/7.50/en-US/abenclass_types_constants.htm)
+
 [shortcut](https://blogs.sap.com/2013/09/17/shortcuts-that-can-make-an-abaper-life-easier/)
