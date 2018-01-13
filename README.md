@@ -21,4 +21,5 @@ Password: Appl1ance
 SAP help
 ========
 
-[classes](https://help.sap.com/saphelp_nw70/helpdata/en/ce/b518b6513611d194a50000e8353423/frameset.htm)
+
+[keyword](https://help.sap.com/doc/abapdocu_752_index_htm/7.52/en-US/abenabap_statements_overview.htm)
