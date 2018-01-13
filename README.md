@@ -27,3 +27,11 @@ SAP help
 [oops concept](http://zevolving.com/category/abapobjects/)
 
 [classessaphelp](https://help.sap.com/doc/abapdocu_750_index_htm/7.50/en-US/abenclasses.htm)
+
+[attributes](https://help.sap.com/doc/abapdocu_750_index_htm/7.50/en-US/abenclass_attributes.htm)
+
+[ABAP Methods] (https://help.sap.com/doc/abapdocu_750_index_htm/7.50/en-US/abenclass_methods.htm)
+
+[events] (https://help.sap.com/doc/abapdocu_750_index_htm/7.50/en-US/abenclass_events.htm)
+
+[types and constants](https://help.sap.com/doc/abapdocu_750_index_htm/7.50/en-US/abenclass_types_constants.htm)
